@@ -1,0 +1,29 @@
+body{
+	background: #515151 ;
+	font-family: sans-serif;
+	margin: 20px;
+
+}
+h1{
+	text-align: center;
+	color: rgb(180, 180, 180); 
+	margin: auto; 
+}
+h2{
+	color: rgb(180, 180, 180);
+	margin: auto; 
+}
+p{
+	text-align: center;
+	color: rgb(230, 230, 230);
+	margin: auto; 
+}
+img{
+	margin: auto;
+	margin: 20px;
+	width: 450px;
+}
+.img1{
+	width: 200px;
+
+}
